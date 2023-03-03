@@ -19,7 +19,7 @@ And run.
 $ npm start
 ```
 
-Open your browser and connect to your server with port number 3030.
+Open your browser and connect to your server with port number 3000.
 
 ## License
 MIT. Do whatever you want.
